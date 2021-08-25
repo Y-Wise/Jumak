@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 710, y: 492}
   m_MaxSize: {x: 18005, y: 14042}
   vertical: 0
-  controlID: 112
+  controlID: 97
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 69
+  controlID: 37
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 113
+  controlID: 98
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -425,7 +425,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4095ffff5a95ffff2ca7ffff30a7ffff1ecdffff78ddffff14deffffa2dfffffc8e3ffff4e3800002a390000b43b0000e83c0000943d0000a4520000c052000024530000aa530000186300004c640000f86400007e670000de670000fe6700006268000020bf0000
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -514,20 +514,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/01.Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/01.Scenes
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\dkrke\Desktop\Graduation_YEM
+  m_LastProjectPath: C:\Users\dkrke\Desktop\git\Jumak\Graduation_YEM
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 349.1}
-    m_SelectedIDs: ea480000
-    m_LastClickedID: 18666
-    m_ExpandedIDs: 00000000be480000c0480000c2480000c4480000c6480000c8480000ca480000cc480000ce480000d0480000d2480000d4480000d6480000d8480000da480000dc48000000ca9a3b
+    scrollPos: {x: 0, y: 127}
+    m_SelectedIDs: 30400000
+    m_LastClickedID: 16432
+    m_ExpandedIDs: 0000000030400000324000003440000036400000384000003a4000003c4000003e40000040400000424000004440000046400000484000004a4000004c4000004e40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -555,7 +555,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000be480000c0480000c2480000c4480000c6480000c8480000ca480000cc480000ce480000d0480000d2480000d4480000d6480000d8480000da480000dc480000
+    m_ExpandedIDs: 0000000030400000324000003440000036400000384000003a4000003c4000003e40000040400000424000004440000046400000484000004a4000004c4000004e400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -582,7 +582,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000000000003e3800004638000050380000689100006c9100004299000048ac0000d8b2010004400000d43f0000124000002240000032400000424000005240000094400000c0400000d040000052e3010006150200f6140200be2c0100063d0000363d0000263d0000943f00009e3f0000489b0000503c0000c6410000a8410000b64100007c3c000004750600fc740600007506008e410000f27406009c460000aa4600004e4000000e90020094c4020064870400628704005e8704005c3c0000823c0000bee70500aee70500b6e70500bce7050008f0050004f00500feef050002f005000cf00500122b06000ef0050004eb060006eb0600d23900004c390000383d00003c490000ca470000f6470000423f0200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
