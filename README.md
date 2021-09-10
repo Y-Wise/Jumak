@@ -1,4 +1,4 @@
 # Jumak
-Graduation Project
 Team YoonEunMin
+Graduation Project
 Global School of Media in Soongsil University
