@@ -25,35 +25,4 @@ public class JoyButtonController : MonoBehaviour
         Pressed = true;
     }
 
-    //void Update()
-    //{
-    //    if (Input.GetMouseButtonDown(0))
-    //    {
-    //        Pressed = true;
-    //    }
-    //    if (Input.GetMouseButtonUp(0))
-    //    {
-    //        Pressed = false;
-    //    }
-    //}
-
-    //public void OnMouseUp()
-    //{
-    //    Pressed = false;
-    //}
-
-    //public void OnMouseDown()
-    //{
-    //    Pressed = true;
-    //}
-
-    //public void OnPointerDown(PointerEventData eventData)
-    //{
-    //    Pressed = true;
-    //}
-
-    //public void OnPointerUp(PointerEventData eventData)
-    //{
-    //    Pressed = false;
-    //}
 }

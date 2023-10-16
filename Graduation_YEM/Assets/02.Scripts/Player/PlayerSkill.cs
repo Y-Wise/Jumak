@@ -45,10 +45,6 @@ public class PlayerSkill : MonoBehaviour
     int[] numStoreTable = new int[6] { 0, 0, 0, 0, 0, 0 }; // 테이블의 각 pos index
 
     public int score = 0;
-    //public int[] scoreInPot = new int[2] { 0, 0 };
-
-    //public bool isCompleteOrder = false;
-    //public int completeDishId;
 
     void Awake()
     {
@@ -125,10 +121,6 @@ public class PlayerSkill : MonoBehaviour
                     handKnife.SetActive(false); // 칼 비활성화
                     ResetHand();
                 }
-                //else if(nearObject.tag == "Outlet")
-                //{
-                //    FinishOrder();
-                //}
                 else
                 {
                     playerMovement.isCut = false; // 썰기 애님 비활성화
@@ -143,7 +135,6 @@ public class PlayerSkill : MonoBehaviour
             }
 
         }
-        //score = scoreInPot[0] + scoreInPot[1];
         if (numStoreHand >= 0) {
             numHand.text = "X " + numStoreHand.ToString("0"); //UI
         }
@@ -687,24 +678,6 @@ public class PlayerSkill : MonoBehaviour
         equipObj = null;
         isCatch = false;
     }
-
-    //void FinishOrder()
-    //{
-    //    if((equipItem.iType == Item.ItemType.tDish) && (nearObject.tag == "Outlet"))
-    //    {
-    //        if(equipItem.iValue == customer.cusID)
-    //        {
-    //            isCompleteOrder = true;
-    //            completeDishId = equipItem.iValue;
-    //            Debug.Log("성공");
-    //        }
-    //        else
-    //        {
-    //            isCompleteOrder = false;
-    //            Debug.Log("해당 음식을 주문한 손님이 없습니다.");
-    //        }
-    //    }
-    //}
 
     // 버그 정리
     void ResetHand()
